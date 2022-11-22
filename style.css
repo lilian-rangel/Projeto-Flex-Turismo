@@ -170,7 +170,7 @@ header .menu{
 
 #planos{
     flex-direction: column;
-    min-height: 100vh;
+    min-height: 80vh;
     padding-top: 50px;
 
 }
@@ -256,6 +256,7 @@ footer .footer{
     }
 
     .apresentacao {
+        height: 80vh;
         flex-direction: column-reverse;
     }
 
