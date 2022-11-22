@@ -10,7 +10,7 @@ Um dos meus primeiros projetos onde fui apresentada aos fundamentos do CSS Flexb
 
 <hr>
 <h2 align="center">Deploy 👨🏽‍💻</h2>
-<a href="" target="_blank">Confira a página nesse link</a>
+<a href="https://lilian-rangel.github.io/Projeto-Flex-Turismo/" target="_blank">Confira a página nesse link</a>
 <hr>
 
 <h2 align="center">Prints da página</h2>
